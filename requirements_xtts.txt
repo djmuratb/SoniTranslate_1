@@ -38,7 +38,7 @@ gruut[de,es,fr]==2.2.3
 # deps for korean
 jamo
 nltk
-g2pkk==0.1.1
+g2pkk==0.1.2
 # deps for bangla
 bangla
 bnnumerizer
